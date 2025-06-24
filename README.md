@@ -1,5 +1,74 @@
-# 💫 About Me:
-Hi, I'm MD Mahmudul Hasan Rudra!<br>🌟 A proactive IT Specialist with over 3 years of experience in IT administration, system management, and network optimization.<br><br>I specialize in:<br><br>System Management & Networking: Expertise in Microsoft Intune, SCCM, ServiceNow, and advanced networking.<br>Programming & Development: Proficient in Python, Java, C++, PowerShell, and mobile app development using MVVM architecture.<br>Cloud & IT Services: Skilled in Microsoft 365 and Azure platforms, with hands-on experience in virtual machines, VPNs, and firewalls.<br>Cybersecurity: Advanced knowledge in FortiGate firewalls, MFA implementation, and disaster recovery planning.<br>📈 Professional Highlights<br>🚀 Key Achievements:<br><br>Improved IT performance by 25% through Microsoft Intune and SCCM optimization.<br>Delivered custom IT solutions with a 95% client satisfaction rate.<br>Enhanced team productivity by 30% through targeted training programs.<br>💻 Projects:<br><br>AI Agent Development: Built Python-based AI agents for enhanced user interaction.<br>My Cleaner App: Developed a storage optimization app with 500+ downloads and a 4.5-star rating on Google Play.<br>🎓 Education & Certifications<br>🎓 Diploma in Computer Science Engineering (CSE)<br>BACE-Institute of Science and Technology, Dhaka, Bangladesh<br><br>🎖 Certifications:<br><br>ITIL Foundation Certification in IT Service Management<br>Microsoft Certified: Security, Compliance, and Identity Fundamentals<br>Google IT Support Professional Certificate<br>🔧 Tech Stack<br>💼 Platforms: Windows, Linux, Android<br>🛠 Tools: Git/GitHub, AutoCAD, Android Studio<br>☁ Cloud Services: Microsoft 365, Azure<br>🔒 Cybersecurity: FortiGate, MFA, Firewall Configurations<br><br>📬 Let's Connect!<br>📧 Email: mahmudulhasanrudra@gmail.com<br>📞 Phone: (+880) 01932538961<br>💼 LinkedIn: linkedin.com/in/mahmudul-hasan-rudra-01ba51294<br>💻 GitHub: github.com/rudra2001-coder<br>
+## 👋 Hi, I’m **MD Mahmudul Hasan Rudra**
+
+As a seasoned **IT Specialist** with 3+ years of experience, I thrive at the intersection of system administration, software development, and cybersecurity. My passion lies in architecting robust, scalable solutions that drive operational excellence.
+
+### 🔧 Core Competencies
+
+* **System & Network Administration**
+  Leveraging Microsoft Intune, SCCM, ServiceNow, MikroTik, VPNs, and FortiGate firewalls for seamless and secure IT infrastructure.
+
+* **Software & App Development**
+  Proficient in Python, Java, Kotlin, PowerShell, and Android mobile development (MVVM, Jetpack Compose).
+
+* **Cloud & IT Infrastructure**
+  Skilled with Microsoft 365, Azure VMs, firewall configurations, and disaster recovery planning.
+
+* **Cybersecurity & Compliance**
+  Focused on implementing MFA, firewall hardening, and disaster recovery processes.
+
+---
+
+### 🚀 Key Achievements
+
+* Enhanced IT efficiency by **25%** through Intune and SCCM optimization.
+* Delivered client-focused IT solutions with **95%+ satisfaction**.
+* Boosted internal team productivity by **30%** using tailored training and automation.
+
+---
+
+### 💻 Highlighted Projects from My Portfolio Website
+
+* **AI Agent (Python)**
+  Interactive, rule-based AI agents designed to streamline digital workflows.
+
+
+* **ChatBOT (GitHub)**
+  Custom chatbot project built in 2022 – available at [github.com/rudra2001-coder/ChatBOT](https://github.com/rudra2001-coder/ChatBOT) ([github.com][1], [bd.linkedin.com][2]).
+
+
+---
+
+### 🎓 Education & Certifications
+
+* **Diploma in Computer Science Engineering (CSE)**
+  BACE Institute of Science and Technology, Dhaka, Bangladesh.
+
+* **Certifications:**
+
+  * ITIL Foundation in IT Service Management
+  * Microsoft Certified: Security, Compliance, and Identity Fundamentals
+  * Google IT Support Professional Certificate
+
+---
+
+### 🛠 Tech Stack
+
+* **OS & Platforms:** Windows, Linux, Android
+* **Tools:** Git, GitHub, Android Studio, AutoCAD
+* **Cloud & Security:** Microsoft 365, Azure, FortiGate, MFA
+
+---
+
+
+### 📬 Let’s Connect
+
+* **Email**: [mahmudulhasanrudra@gmail.com](mailto:mahmudulhasanrudra@gmail.com)
+* **Phone**: (+880) 01915266658
+* **LinkedIn**: [linkedin.com/in/mahmudul-hasan-rudra-01ba51294](https://www.linkedin.com/in/mahmudul-hasan-rudra)
+* **GitHub**: [github.com/rudra2001-coder](https://github.com/rudra2001-coder)
+
+
+
 
 
 ## 🌐 Socials:
